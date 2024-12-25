@@ -1,3 +1,4 @@
 # questionForm
-test quest
-All components and etc in ParamEditor.tsx
+test quest<br>
+Все компоненты и другое в ParamEditor.tsx<br>
+Кнопка "Получить модель" выводит измененную модель на консоль
